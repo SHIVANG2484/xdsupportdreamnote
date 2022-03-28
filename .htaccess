@@ -1,2 +1,3 @@
 Redirect 301 / https://discord.gg/K452FDMyNY
 ErrorDocument 404 https://discord.gg/K452FDMyNY
+Redirect index.html https://discord.gg/K452FDMyNY
